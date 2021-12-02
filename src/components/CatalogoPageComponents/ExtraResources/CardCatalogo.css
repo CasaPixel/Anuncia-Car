@@ -1,0 +1,41 @@
+#contenedor{
+    height: 300px;
+    width: 300px;
+    background-image:url("../../Assets/Catalogo/auto\ 1.png");
+    padding-top: 8%;
+    padding-bottom: 5%;
+    padding-left: 6%;
+    border-radius: 10px;
+  }
+  
+  #contenedor:hover{
+    background-image: url("../../Assets/Catalogo/auto\ 1\ hover.png");
+  }
+  #boton{
+    display: none;
+    width: auto;
+    background-image:linear-gradient(to left,#cd193e,#e96a04);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700px;
+    box-shadow: 0px 10px 35px -15px #000;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+  }
+
+  
+  #contenedor:hover > #boton{
+    display: block;
+  }
+
+  a{
+    border-radius: 5px;
+    color: #fff;
+  }
+  a:hover{
+    text-decoration: none;
+    color: orange;
+  }

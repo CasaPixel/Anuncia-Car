@@ -1,0 +1,19 @@
+.ContainerDiv{
+    display: flex;
+}
+
+.Contador{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 15px;
+    font-size: 18pt;
+}
+
+.CounterDiv{
+    display: flex;
+}
+#Butonplus{
+    background-color: transparent;
+    border:transparent;
+    font-size: 18pt;
+}

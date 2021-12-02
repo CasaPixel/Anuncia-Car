@@ -1,0 +1,29 @@
+.sidenav{
+    height: 100%;  
+    width: 20%;  
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0; 
+    background-color:#390044; 
+    transition: .5s ease; 
+    overflow-x: hidden; 
+    padding-top: 20px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    
+}
+
+.Logobg{
+    background-color: #390044;
+}
+
+.Textbg{
+    margin-top: 10px;
+    background-color: #390044;
+}
+
+div.head-div {
+    display: none;
+  }

@@ -1,0 +1,92 @@
+.COntenedirLogin{
+    padding-top: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 5%;
+    background-image: url("../../Assets/Fondo.png") ;
+    background-size: 100% 100%;
+    border-radius: 10px;
+    box-shadow: 0px 10px 35px -15px #000;    
+}
+.form-group{
+    margin-top: 10%;
+}
+.FormLogin{
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+.form-control{
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-left:30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:white;
+    background-color: transparent;
+    border-color: #e96a04;
+}
+
+.form-control::placeholder { 
+    background-color: transparent;
+    padding-left: 10px;
+  }
+.title-h3{
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: 35pt;
+    color: white;
+}
+.forgot-password{
+    color: white;
+}
+
+.btn-submit{
+    width: auto;
+    background-image:linear-gradient(to left,#cd193e,#e96a04);
+    border: none;
+    margin-bottom: 20px;
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600px;
+    box-shadow: 0px 10px 35px -15px #000;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+.forgot-password{
+    margin-top: 20px;
+}
+
+#InputPass {
+    color:white;
+    background: url("../../Assets/Contraseña.png") no-repeat scroll 7px 7px;
+    padding-left:30px;
+}
+.RegistroCS{
+    padding-top: 20px;
+    color: #e96a04;
+}
+
+.RegistroCS:hover{
+    padding-top: 20px;
+    color: #cd193e;
+}
+.Close{
+    font-size: 32px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    padding-left: 500px;
+    color: #e96a04;
+}
+.Close:hover{
+    font-size: 32px;
+    margin-top: -40px;
+    margin-bottom: 50px;
+    padding-left: 500px;
+    color: #e96a04;
+}

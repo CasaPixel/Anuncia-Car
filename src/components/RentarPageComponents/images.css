@@ -1,0 +1,157 @@
+.ImageFormat{
+    display: flex;
+    gap: 3%;
+    padding-left: 11%;
+    padding-right: 9%;
+}
+.ImageFormats{
+    display: flex;
+    gap: 3%;
+}
+.ImageFormatText{
+    padding-left: 0;
+}
+
+
+.cardformat{
+    padding-bottom: 10px;
+}
+
+.card-body-format{
+    width: 100%;
+    padding: 0 5px 0 0 ;
+}
+
+.card-title-format{
+    width: 100px;
+    height: 100px;
+    background-color:gainsboro;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    font-size: 14pt;
+    color: #e96a04;
+    box-shadow: 0px 10px 15px -10px #000;
+}
+
+
+.card-title-format:hover{    
+    width: 100px;
+    height: 100%;
+    background-color:#e96a04;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-bottom: 42px;
+    border-radius: 10px;
+    font-size: 14pt;
+    color: white;
+    box-shadow: 0px 10px 15px -10px #000;
+}
+.card-text-format-orange{
+    padding: 0 0 0 0;
+    margin-top: 15px;
+    color: #e96a04;
+    font-size: 14pt;
+}
+
+.card-text-format-orange-title2{
+    padding: 0 0 0 0;
+    margin-top: -10px;
+    color: #e96a04;
+    font-size: 14pt;
+}
+.card-text-format{
+    padding: -10px 0 0 0;
+    color: black;
+    margin-top: -10px;
+    font-size: 14pt;
+}
+
+.card-title-format-m{
+    width: 100px;
+    height: 100%;
+    background-color:gainsboro;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    font-size: 14pt;
+    color:#e96a04 ;
+    box-shadow: 0px 10px 15px -10px #000;
+}
+.card-title-format-m:hover{
+    width: 100px;
+    height: 100%;
+    background-color:#e96a04;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    font-size: 14pt;
+    color: whitesmoke;
+    box-shadow: 0px 10px 15px -10px #000;
+}
+.card-title-format-c{
+    width: 100px;
+    height: 100%;
+    background-color:gainsboro;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    font-size: 14pt;
+    color:#e96a04 ;
+    box-shadow: 0px 10px 15px -10px #000;
+}
+.card-title-format-c:hover{
+    width: 100px;
+    height: 100%;
+    background-color:#e96a04;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    font-size: 14pt;
+    color: whitesmoke;
+    box-shadow: 0px 10px 15px -10px #000;
+
+}
+.card-title-format-p{
+    width: 100px;
+    height: 100%;
+    background-color:gainsboro;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    font-size: 14pt;
+    color:#e96a04 ;
+    box-shadow: 0px 10px 15px -10px #000;
+}
+.card-title-format-p:hover{
+    width: 100px;
+    height: 100%;
+    background-color:#e96a04;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    font-size: 14pt;
+    color: white;
+    box-shadow: 0px 10px 15px -10px #000;
+}
+
+.UploadFiles{
+    display: flex;
+}
+
+#formGridRenta{
+    color: black;
+}
+
+.Rentar{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20pt;
+}

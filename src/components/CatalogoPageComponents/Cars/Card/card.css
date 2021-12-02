@@ -1,0 +1,110 @@
+.container-div{
+  margin:0 5% 0 7% ;
+}
+.card1{
+    margin-bottom: 15%;
+    transform: scale(1);
+    transition: all 0.2s ease-in-out;
+    background-color: white;
+    border-radius: 20px;
+  }
+  
+.card-body1 {
+    margin-top: -20px;
+    padding: 2rem 0 !important;
+    color: black;
+    background-color: white;
+  }
+
+  .card-text1 {
+    font-size: 1rem;
+    color: black;
+    border-radius: 20px;
+  }
+  
+  .overflow1 {
+    overflow: hidden;
+  }
+  
+.card-img-top1 {
+  width: 100%;
+  background-color: white;
+  z-index: 3;
+  }
+
+.card-img-top1:hover{
+    background-size: cover;
+    filter: hue-rotate(10deg) brightness(50%);
+    z-index: -3;
+}
+
+.button-hover{
+  padding: 15px 10px 15px 10px;
+}
+.button-hover:hover{    
+  margin: 0 0 0 0;
+  z-index: 1;
+}
+.btn1{
+  background-image:linear-gradient(to left,#cd193e,#e96a04);
+  padding: 10px 50px 10px 50px;
+  border-radius: 10%;
+  color: white;
+  z-index: 1;
+}
+
+.btn1:hover{
+  background-color: white;
+  padding: 10px 50px 10px 50px;
+  border-radius: 10%;
+  color: orange;
+  z-index: 1;
+}
+.middle{
+  float: flex;
+  width: 100%;
+}
+.Descripcion{  
+  float: flex;
+  width: 100%;
+}
+
+.card-title1{
+  margin-bottom: -50px;
+  width: 100%;
+  text-align: left;
+  justify-content: start;    
+  font-size: 29px;
+  color: #e96a04;
+  float: left;
+}
+
+.card-title2{
+    width: 100%;
+    padding-left: 130px;
+    font-size: 24px;
+    text-align: right;
+    justify-content: end;
+    color: #e96a04;
+}
+
+.divTime{
+  border: 1px;
+}
+.card-title3{
+  width: 100%;
+  padding-left: 150px;
+  font-size: 24px;
+  text-align: right;
+  justify-content: end;
+  color: #e96a04;
+}
+
+.card-text1 {
+  margin-top: -30px;
+  float: left;
+  width: 70%;
+  text-align: left;
+  display: inline;
+}
+  

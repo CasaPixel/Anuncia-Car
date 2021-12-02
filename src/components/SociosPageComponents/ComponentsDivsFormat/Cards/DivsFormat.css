@@ -1,0 +1,179 @@
+.containerSocios{
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 2%;
+}
+.cardSocios{
+  padding-bottom: 20px;
+  margin-bottom: 15%;
+  border-color: purple;
+  background-color: transparent;
+}
+.card-bodySocios {
+  text-align: left;  
+  }
+
+.card-title-Socios{
+  text-align: center;
+    color: #FFF;
+  }
+
+.card-text-Socios  {
+   text-align: center;  
+    padding: 0 0 0 0;
+    font-size: 1rem;
+    color: #FFF;
+    line-height: 25pt;      
+  }
+  
+.overflow {
+    overflow: hidden;
+  }
+
+.PersonalData{
+  margin-top: -10px;
+  padding-top: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.mb-3{
+  margin-top: -30px;
+}
+
+.DatePersonalData{
+  border-radius: 10px;
+  border-color: #e96a04;
+  background-color: transparent;
+  color: #FFF;
+}
+.DatePersonalData::placeholder { 
+  color: white; 
+  padding-left: 10px;
+}
+.NamePersonalData{
+  border-radius: 10px;
+  border-color: #e96a04;
+  background-color: transparent;
+}
+.NamePersonalData::placeholder { 
+  color: white; 
+  padding-left: 10px;
+}
+.EmailPersonalData{
+  border-radius: 10px;
+  border-color: #e96a04;
+  background-color: transparent;
+  color: #e96a04;
+}
+.EmailPersonalData::placeholder { 
+  color: white; 
+  padding-left: 10px;
+}
+.PasswordPersonalData{
+  border-radius: 10px;
+  border-color: #e96a04;
+  background-color: transparent;
+  color: #e96a04;
+}
+.PasswordPersonalData::placeholder { 
+  color: white; 
+  padding-left: 10px;
+}
+
+.NameCountData{
+  border-radius: 10px;
+  border-color: #e96a04;
+  background-color: transparent;
+  color: #e96a04;
+}
+.NameCountData::placeholder { 
+  color: white; 
+  padding-left: 10px;
+}
+.BankCountData{
+  border-radius: 10px;
+  border-color: #e96a04;
+  background-color: transparent;
+  color: #e96a04;
+}
+.BankCountData::placeholder { 
+  color: white; 
+  padding-left: 10px;
+}
+.NumberCountData{
+  border-radius: 10px;
+  border-color: #e96a04;
+  background-color: transparent;
+  color: #e96a04;
+}
+.NumberCountData::placeholder { 
+  color: white; 
+  padding-left: 10px;
+}
+
+.custom-input-file {
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  min-height: 15px;
+  overflow: hidden;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.ItemsChbx{
+  text-align: center;
+ } 
+
+.ChecbxIcon {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+input.form-control {
+  border-color: #e96a04;
+  background-color: transparent;
+  border-radius: 50px;
+}
+
+input.DatePersonalData.form-control {
+  color: #e96a04;
+}
+
+.NamePersonalData.form-control {
+    color: #e96a04;
+}
+
+
+div.modal-header {
+  background-color: #390044;
+  color: #e96a04;
+    margin: #390044;
+
+}
+
+div.modal-body {
+  background-color: #390044;
+  color: #e96a04;
+
+
+}
+
+div.modal-footer {
+  background-color: #390044   ;
+}
+
+button.btn.btn-secondary {
+  background-color: #e96a04;
+  margin-top: 10px;
+}
+
+div button span {
+  color: white;
+}
+
+input.form-control-file {
+  padding-top: 10px;
+}

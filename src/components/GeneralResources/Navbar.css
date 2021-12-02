@@ -1,0 +1,32 @@
+.navbar {
+    height: 80px;
+    display: flex;
+    color: white;
+    background-color: transparent; 
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    font-size: 1.3rem;
+}
+.nav-links:hover {
+    color: orange;
+    background-color: #fff;
+  }
+.nav-links:active {
+    color: orange;
+  }
+
+.nav-menu{
+    color: white;
+    font-size: 16px;
+}
+
+.navbar-container{
+    color: white;
+    font-size: 16px; 
+}
+.nav-links{
+    color: white;
+    font-size: 16px;
+}
